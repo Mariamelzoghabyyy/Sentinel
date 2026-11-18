@@ -1,0 +1,7 @@
+# Core (only hard dependency)
+langgraph>=1.0
+# Installed automatically with langgraph, listed for clarity:
+# langchain-core
+
+# Dev / tests
+pytest>=8.0
